@@ -1,0 +1,54 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Daniel Moore's Website"
+theme = "hyde-hyde"
+[params.social]
+    github = "danielpygo"
+    linkedin = "daniel-moore-07962b104"
+    twitter = "dan_moore_10x"
+    email = "ddmoorish@gmail.com"
+[params]
+    themeColor = "theme-base-08"
+    author = "Daniel Moore"
+    title = "Daniel Moore's website and blog"
+    description = "I don't really care about the office, man"
+    authorimage = "daniel.jpg"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+[[menu.main]]
+    name = "Random Musings"
+    identifier = "main"
+    weight = 100
+    url = "/blog/"
+[[menu.main]]
+    name = "Programming"
+    identifier = "programming"
+    weight = 100
+    url = "/programming/"
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 100
+    url = "/portfolio/"
+[[menu.main]]
+    name = "Resume"
+    identifier = "resume"
+    weight = 100
+    url = "/resume/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
+    name = "Notes"
+    weight = 100
+    identifier = "note"
+    url = "/note/"
