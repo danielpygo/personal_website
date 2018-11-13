@@ -51,4 +51,4 @@ theme = "hyde-hyde"
     name = "Notes"
     weight = 100
     identifier = "note"
-    url = "/note/"
+    url = "/notes/"
