@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://danielpygo.github.io/"
 languageCode = "en-us"
 title = "Daniel Moore's Website"
 theme = "hyde-hyde"
@@ -11,7 +11,7 @@ theme = "hyde-hyde"
     themeColor = "theme-base-08"
     author = "Daniel Moore"
     title = "Daniel Moore's website and blog"
-    description = "I don't really care about the office, man"
+    description = "The game begat the player"
     authorimage = "daniel.jpg"
     dateformat = "Jan 2, 2006"
     highlightjs = true
@@ -23,8 +23,8 @@ theme = "hyde-hyde"
     #UtterancesTheme = "..." # github-light or github-dark
 
 [[menu.main]]
-    name = "Random Musings"
-    identifier = "main"
+    name = "Personal"
+    identifier = "personal"
     weight = 100
     url = "/blog/"
 [[menu.main]]
