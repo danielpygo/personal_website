@@ -26,7 +26,7 @@ theme = "hyde-hyde"
     name = "Personal"
     identifier = "personal"
     weight = 100
-    url = "/blog/"
+    url = "/personal/"
 [[menu.main]]
     name = "Programming"
     identifier = "programming"
@@ -50,5 +50,5 @@ theme = "hyde-hyde"
 [[menu.main]]
     name = "Notes"
     weight = 100
-    identifier = "note"
+    identifier = "notes"
     url = "/notes/"

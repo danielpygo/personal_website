@@ -1,7 +1,7 @@
 ---
 title: "The Game"
 date: 2018-11-14T23:49:31-06:00
-draft: true
+draft: false
 ---
 <p>
 The Game Begat the Player

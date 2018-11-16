@@ -1,7 +1,7 @@
 ---
 title: "Hashing"
 date: 2018-11-12T20:55:46-06:00
-draft: true
+draft: false
 ---
 [Cmu hashing notes](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f13/www/lectures/lecture24.pdf)
 
