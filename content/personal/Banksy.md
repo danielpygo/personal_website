@@ -1,6 +1,8 @@
 ---
 title: "Re: Exit Through The Gift Shop"
-date: 2018-11-12T16:18:57-06:00
+date: 2018-09-09
+type: personal
+description: "Thoughts on Banksy's documentary about art"
 draft: false
 ---
 <p>

@@ -1,7 +1,10 @@
 ---
 title: "Intro"
-date: 2018-11-15T01:19:47-06:00
-draft: false
+description: "Section for programming-related topics and tech concepts that interest me!"
+date: '2018-09-02'
+layout: 'portfolio'
+featured: "false"
+screenshot: 'p0.png'
 ---
 
 <p>

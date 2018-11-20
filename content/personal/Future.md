@@ -1,6 +1,8 @@
 ---
-title: "5 Year plan"
-date: 2018-11-15T00:14:09-06:00
+title: "Five Year plan"
+date: 2018-09-20
+type: personal
+description: Writing down some of my goals...
 draft: false
 ---
 

@@ -16,6 +16,7 @@ theme = "hyde-hyde"
     dateformat = "Jan 2, 2006"
     highlightjs = true
     highlightjsstyle = "github"
+    paginate = 5
     # please choose either GraphComment or Disqus or Utterances
     #GraphCommentId = "..."
     #UtterancesRepo = "..." # https://utteranc.es/
