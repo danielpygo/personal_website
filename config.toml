@@ -17,12 +17,6 @@ theme = "hyde-hyde"
     highlightjs = true
     highlightjsstyle = "github"
     paginate = 5
-    # please choose either GraphComment or Disqus or Utterances
-    #GraphCommentId = "..."
-    #UtterancesRepo = "..." # https://utteranc.es/
-    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
-    #UtterancesTheme = "..." # github-light or github-dark
-
 [[menu.main]]
     name = "Personal"
     identifier = "personal"
