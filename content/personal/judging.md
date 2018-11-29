@@ -1,6 +1,6 @@
 ---
 title: "Don't Be a Hater"
-date: 2018-9-13
+date: 2018-09-13
 type: personal
 description: "Decide for yourself"
 draft: false
