@@ -5,9 +5,5 @@ layout: resume
 type: resume
 draft: false
 ---
-<p>I am applying for both right now!
-If I get the internship I want, I would take another semester to finish my minor after it in December 2019 (Since internships require a semester after it ends).
-As of right now, I am set to graduate in May 2019.
-</p>
 {{< figure src="/resume_sw.jpg">}}
 [Download pdf!](/resume_sw.pdf)
