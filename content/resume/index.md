@@ -1,5 +1,5 @@
 ---
-title: "Resume - Seeking Full Time Software Engineering Role or Summer Internship"
+title: "Resume"
 date: 2018-11-12T21:24:07-06:00
 layout: resume
 type: resume
