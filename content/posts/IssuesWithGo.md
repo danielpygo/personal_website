@@ -6,7 +6,7 @@ draft: false
 
 ![Ugly go code snippet](/imgs/a.png)
 
-Look at this code snippet! This is pretty standard actually. Go has no exceptions and it leads to a very ugly style of programming sometimes.
+Look at this code snippet! This is pretty standard actually - I have written code extremely similar to this. Go has no exceptions and it leads to a very ugly style of programming sometimes.
 Go also lacks immutables, inheritance and generics. Its dependency management is a mess (no versioning support, yes really), it has a really annoying compile time [error](https://corte.si/posts/code/go/go-rant.html) when you have an unused import, and GOPATH takes some getting use to. But by and large Go has been a successful language and I think it is because it makes grandiose promises of concurrency. These aforementioned items are all frustrating, but when it comes to creating servers, networking, and web applications, Go is very useful.
 
 Also this [article](http://nomad.uk.net/articles/why-gos-design-is-a-disservice-to-intelligent-programmers.html)
