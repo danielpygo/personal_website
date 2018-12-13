@@ -13,7 +13,6 @@ I read the go-to book on investing and the history of the stock market about thr
 
 
 Hypothetically, If I had to put all my money into one company and hold it for 3 years who would I choose? A company's future matters a lot when choosing a job, so maybe it isn't that crazy of a hypothetical after all
-</p>
 
 ---
 

@@ -47,3 +47,8 @@ theme = "hyde-hyde"
     weight = 100
     identifier = "notes"
     url = "/notes/"
+[[menu.main]]
+    name = "Quotes"
+    weight = 100
+    identifier = "quotes"
+    url = "/quotes/"
