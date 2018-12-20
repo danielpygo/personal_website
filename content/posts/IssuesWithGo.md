@@ -1,5 +1,5 @@
 ---
-title: "My Issues With Go"
+title: "Issues With Go"
 date: 2018-10-23T15:55:32-06:00
 draft: false
 ---
