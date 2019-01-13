@@ -39,7 +39,7 @@ Next is Microsoft. Probably the most diverse company out of this list because th
 
 
 Microsoft, the company I actually adore the most out of this list. I have a good friend of ~10 years working there, Saad Najmi, and he loves it. Microsoft is doing great app development that affects so so many ordinary people.
-Microsoft is great at cloud, great at research, great at app development and has good diversification of revenue streams. Google's revenue is still mostly advertising, Amazon's is their marketplace, but Microsoft has Windows(personal computing), Office, Azure, etc.
+Microsoft is great at cloud, great at research, great at app development and has good diversification of revenue streams. Google's revenue is still mostly advertising, Amazon's is the cloud, but Microsoft has Windows(personal computing), Office, Azure, etc.
 
 
 Excel is my personal favorite app from Microsoft's office suite and I one day want to become an expert at it (learn all the hotkeys & features). It is a great, flexible tool for analysis of anything financial; I once saw an excel EXPERT do a stock analysis and prediction video for two hours, and it was mind-blowing how versatile the tool can be in the right hands. It's also used for science, investing, data science, data analysis, and in general is in a class of its own for usability and usefulness.
