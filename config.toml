@@ -33,11 +33,6 @@ theme = "hyde-hyde"
     weight = 100
     url = "/portfolio/"
 [[menu.main]]
-    name = "Resume"
-    identifier = "resume"
-    weight = 100
-    url = "/resume/"
-[[menu.main]]
     name = "About"
     identifier = "about"
     weight = 100
