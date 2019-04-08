@@ -1,5 +1,5 @@
 ---
-title: "GraphQL notes pt 2"
+title: "GraphQL notes"
 date: 2019-3-02T20:55:46-06:00
 description: "Notes about graphql system"
 type: "notes"

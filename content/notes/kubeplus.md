@@ -1,6 +1,6 @@
 ---
 title: "KubePlus notes Pt. 1"
-date: 2019-11-10T20:55:46-06:00
+date: 2019-1-10T20:55:46-06:00
 description: "Notes about KubePlus system"
 type: "notes"
 draft: false

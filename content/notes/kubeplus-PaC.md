@@ -1,5 +1,5 @@
 ---
-title: "KubePlus notes pt 2"
+title: "KubePlus notes Pt. 2"
 date: 2019-1-12T20:55:46-06:00
 description: "Notes about KubePlus system"
 type: "notes"
